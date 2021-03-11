@@ -1,0 +1,21 @@
+Root Folder
+  - Project folder
+  - Virtual Environment
+  - Application folders
+
+Django App Structure
+  - models
+
+
+MVT / MVC
+
+M - Models - Database
+V - Views - Business Logic
+T - Templates - Html, Css, Javascript
+
+M - Models
+V - Views
+C - Controllers
+
+models -> Views
+Views -> Urls
